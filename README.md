@@ -5,6 +5,9 @@ This project is a collaboration between the many groups that sequenced virus gen
 
 Although most of the sequence data is publically available on GenBank, the files here are released under a Creative Commons Attribution license (see the LICENSE file).
 
+<iframe src="https://player.vimeo.com/video/171961189" width="640" height="388" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/171961189">Ebola virus migration in West Africa 2013-2016</a> from <a href="https://vimeo.com/evogytis">Gytis Dudas</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 ### License
 
 The contents of this project are licensed under the [Creative Commons Attribution 4.0 license](http://choosealicense.com/licenses/cc-by-sa-4.0/) with the exception of source code which may be under other individual licences.
