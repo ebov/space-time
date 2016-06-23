@@ -1,19 +1,19 @@
 # space-time
 Analysis of EBOV genome sequence from Guinea, Sierra Leone and Liberia from 2014-2016
 
-Metadata file - references for sequences:
+####Metadata file - references for sequences:
 
-Baize et al 2014 DOI: 10.1056/NEJMoa1404505
+Baize et al 2014 [DOI: 10.1056/NEJMoa1404505](http://dx.doi.org/10.1056/NEJMoa1404505)
 
-Gire et al 2014 DOI: 10.1126/science.1259657 PMID: 25214632
+Gire et al 2014 [DOI: 10.1126/science.1259657 PMID: 25214632](http://dx.doi.org/10.1126/science.1259657)
 
-Tong et al 2015 DOI: 10.1038/nature14490
+Tong et al 2015 [DOI: 10.1038/nature14490](http://dx.doi.org/10.1038/nature14490)
 
-Carroll et al 2015 DOI: 10.1038/nature14594
+Carroll et al 2015 [DOI: 10.1038/nature14594](http://dx.doi.org/10.1038/nature14594)
 
-Hoenen et al 2015 DOI: 10.1126/science.aaa5646
+Hoenen et al 2015 [DOI: 10.1126/science.aaa5646](http://dx.doi.org/10.1126/science.aaa5646)
 
-Bell et al 2015 DOI: 10.2807/1560-7917.ES2015.20.20.21131
+Bell et al 2015 [DOI: 10.2807/1560-7917.ES2015.20.20.21131](http://dx.doi.org/10.2807/1560-7917.ES2015.20.20.21131)
 
 Park et al 2015 [DOI: 10.1016/j.cell.2015.06.007](http://dx.doi.org/10.1016/j.cell.2015.06.007)
 
