@@ -7,6 +7,8 @@ Makona_1610_cds_ig.xml - BEAST XML to sample time-structured trees. Data is divi
 
 Makona_1610_cds_ig.MCC.tree - a maximum clade credibility tree constructed from 2 x 100M step runs of the above XML. 
 
+Makona_1610_cds_ig.1K.trees.zip - a ZIP archived file containing a sample of 1000 trees from the above analysis. 
+
 #### License
 
 The contents of this project are licensed under the [Creative Commons Attribution 4.0 license](http://choosealicense.com/licenses/cc-by-sa-4.0/) with the exception of source code which may be under other individual licences.
