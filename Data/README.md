@@ -8,7 +8,7 @@ Tong et al 2015 DOI: 10.1038/nature14490
 Carroll et al 2015 DOI: 10.1038/nature14594
 Hoenen et al 2015 DOI: 10.1126/science.aaa5646
 Bell et al 2015 DOI: 10.2807/1560-7917.ES2015.20.20.21131
-Park et al 2015 (DOI: 10.1016/j.cell.2015.06.007)[http://dx.doi.org/10.1016/j.cell.2015.06.007]
+Park et al 2015 [DOI: 10.1016/j.cell.2015.06.007](http://dx.doi.org/10.1016/j.cell.2015.06.007)
 Whitmer et al
 Smits et al
 Quick et al
