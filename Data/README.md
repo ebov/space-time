@@ -2,7 +2,7 @@
 Analysis of EBOV genome sequence from Guinea, Sierra Leone and Liberia from 2014-2016
 
 ####Contents
-Makona_1610_genomes_2016-06-23.fasta - a 1610 genome alignment in FASTA format. 'N's represent missing data from the individual data assemblies. Some putitive ADAR editing has been masked out (see manuscript for details).
+Makona_1610_genomes_2016-06-23.fasta - a 1610 genome alignment in FASTA format. 'N's represent missing data from the individual data assemblies. Some putitive ADAR editing has been masked out (see manuscript for details) - these sites are marked with a '?' and were a 'C' in the original sequence. The first putitive edited site of a run is not masked to provide some phylogenetic signal.
 
 Makona_1610_genomes_2016-06-23.ml.tree - a maximum likelihood phylogeny of the above data. Intended for data quality control and inspection.
 
